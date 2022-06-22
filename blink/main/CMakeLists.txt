@@ -1,2 +1,2 @@
-idf_component_register(SRCS "hello_world_main.c"
+idf_component_register(SRCS "dabble_utils.cpp" "ir_utils.cpp" "bt_ir_remote.cpp"    
                     INCLUDE_DIRS "")
